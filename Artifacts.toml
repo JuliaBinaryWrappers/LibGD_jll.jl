@@ -1,115 +1,143 @@
 [[LibGD]]
 arch = "aarch64"
-git-tree-sha1 = "2aa096bd0b1ae6ae53001aabe3bbddcde2a2bada"
-libc = "glibc"
-os = "linux"
-
-    [[LibGD.download]]
-    sha256 = "8a08c54e5c9b46bba2cb0dc169e62a5d483fd952becd577e97db670dcf0c4d66"
-    url = "https://github.com/JuliaBinaryWrappers/LibGD_jll.jl/releases/download/LibGD-v2.3.0+0/LibGD.v2.3.0.aarch64-linux-gnu.tar.gz"
-[[LibGD]]
-arch = "aarch64"
-git-tree-sha1 = "35a8045977a17d24f406b496730e9eddb58e9e9d"
-libc = "musl"
-os = "linux"
-
-    [[LibGD.download]]
-    sha256 = "f6d2d3edd4587c476a59a366e1f1a0854bd2ea36f80aba533455060f845a6738"
-    url = "https://github.com/JuliaBinaryWrappers/LibGD_jll.jl/releases/download/LibGD-v2.3.0+0/LibGD.v2.3.0.aarch64-linux-musl.tar.gz"
-[[LibGD]]
-arch = "armv7l"
-call_abi = "eabihf"
-git-tree-sha1 = "b4a3f531cb3d9f54f37c7c01524d37713a7d747c"
-libc = "glibc"
-os = "linux"
-
-    [[LibGD.download]]
-    sha256 = "a990b78f51b47bb932fff43681d613fea9a8f1a004a9b23c18210ed0e41ae358"
-    url = "https://github.com/JuliaBinaryWrappers/LibGD_jll.jl/releases/download/LibGD-v2.3.0+0/LibGD.v2.3.0.armv7l-linux-gnueabihf.tar.gz"
-[[LibGD]]
-arch = "armv7l"
-call_abi = "eabihf"
-git-tree-sha1 = "843085c025ea35447ffbf6c13266c92355d25ef3"
-libc = "musl"
-os = "linux"
-
-    [[LibGD.download]]
-    sha256 = "1d9cf7cfd9e6dc25f04ef0350b1ca2dad06800357c068a42fb032943bd1e9a85"
-    url = "https://github.com/JuliaBinaryWrappers/LibGD_jll.jl/releases/download/LibGD-v2.3.0+0/LibGD.v2.3.0.armv7l-linux-musleabihf.tar.gz"
-[[LibGD]]
-arch = "i686"
-git-tree-sha1 = "30e6954461db3ba0307405df23de93ebef5c7a02"
-libc = "glibc"
-os = "linux"
-
-    [[LibGD.download]]
-    sha256 = "4232f613d3d4a0034f97a58dc203ec8f4339233d92883b9bf94efc964aa4275d"
-    url = "https://github.com/JuliaBinaryWrappers/LibGD_jll.jl/releases/download/LibGD-v2.3.0+0/LibGD.v2.3.0.i686-linux-gnu.tar.gz"
-[[LibGD]]
-arch = "i686"
-git-tree-sha1 = "bd1a666cac00c1209adf7914861efb1aab280c38"
-libc = "musl"
-os = "linux"
-
-    [[LibGD.download]]
-    sha256 = "eac6564c3799fd998c98defbd7aad74e2ce6dad8ced9751bb4c3ba2e37da6927"
-    url = "https://github.com/JuliaBinaryWrappers/LibGD_jll.jl/releases/download/LibGD-v2.3.0+0/LibGD.v2.3.0.i686-linux-musl.tar.gz"
-[[LibGD]]
-arch = "i686"
-git-tree-sha1 = "fd16cbe43790e08acfcc33fc6f6b19e693cd140b"
-os = "windows"
-
-    [[LibGD.download]]
-    sha256 = "f3de7a9b34232db0e322e81d887dcef62a3f4ba60696bf90fd633d2d982efa02"
-    url = "https://github.com/JuliaBinaryWrappers/LibGD_jll.jl/releases/download/LibGD-v2.3.0+0/LibGD.v2.3.0.i686-w64-mingw32.tar.gz"
-[[LibGD]]
-arch = "powerpc64le"
-git-tree-sha1 = "8cd1189af7af20653b8b1530d5ed3b073a04fa93"
-libc = "glibc"
-os = "linux"
-
-    [[LibGD.download]]
-    sha256 = "5db2b6e7c97ea6dd6612f9a00bc7e1729f201374699cde105c605fb910de8849"
-    url = "https://github.com/JuliaBinaryWrappers/LibGD_jll.jl/releases/download/LibGD-v2.3.0+0/LibGD.v2.3.0.powerpc64le-linux-gnu.tar.gz"
-[[LibGD]]
-arch = "x86_64"
-git-tree-sha1 = "67aab5fcb8a6809aec745d168d30ffddb988c6db"
+git-tree-sha1 = "df4afe2b2e52147c512c033ddd4aa679471207d9"
 os = "macos"
 
     [[LibGD.download]]
-    sha256 = "1704e760ec08b24aae5d2fa14a28c0bc8655f98b5c66dd2ea77e8b56be4098fd"
-    url = "https://github.com/JuliaBinaryWrappers/LibGD_jll.jl/releases/download/LibGD-v2.3.0+0/LibGD.v2.3.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "59a4b5978672c23333185d5387343cefb6d13ad9b0b70d00836091c9f48ed734"
+    url = "https://github.com/JuliaBinaryWrappers/LibGD_jll.jl/releases/download/LibGD-v2.3.3+0/LibGD.v2.3.3.aarch64-apple-darwin.tar.gz"
 [[LibGD]]
-arch = "x86_64"
-git-tree-sha1 = "342eb7be98586ec7a4d648e3f6dc5913dc8d0c12"
+arch = "aarch64"
+git-tree-sha1 = "4f3dd8cc639c8c2ae0d28c1b05b8a1843629b79c"
 libc = "glibc"
 os = "linux"
 
     [[LibGD.download]]
-    sha256 = "4b5c938682b5c81d9e8e4714c9281aea160d2a486e8bfb27201d2b12eba0393c"
-    url = "https://github.com/JuliaBinaryWrappers/LibGD_jll.jl/releases/download/LibGD-v2.3.0+0/LibGD.v2.3.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "058857eff9cf68c0a61e6a0200403fd5f5c63aeac2d941655acebf004a3aba49"
+    url = "https://github.com/JuliaBinaryWrappers/LibGD_jll.jl/releases/download/LibGD-v2.3.3+0/LibGD.v2.3.3.aarch64-linux-gnu.tar.gz"
 [[LibGD]]
-arch = "x86_64"
-git-tree-sha1 = "9815fed9556a1414ce2ecb276f2bb1b85f4e7697"
+arch = "aarch64"
+git-tree-sha1 = "e70c1f58b8dc4f16e552ae91c7b046a54e48df3c"
 libc = "musl"
 os = "linux"
 
     [[LibGD.download]]
-    sha256 = "88bcbbdf722decba6f930e49fbc4181f3f05295f2cfe3e6f7cef0627c43b7b06"
-    url = "https://github.com/JuliaBinaryWrappers/LibGD_jll.jl/releases/download/LibGD-v2.3.0+0/LibGD.v2.3.0.x86_64-linux-musl.tar.gz"
+    sha256 = "b7dfcca98047ca989946e5b0222906752aa30cefa08ab079a56d33b5b88e8f84"
+    url = "https://github.com/JuliaBinaryWrappers/LibGD_jll.jl/releases/download/LibGD-v2.3.3+0/LibGD.v2.3.3.aarch64-linux-musl.tar.gz"
 [[LibGD]]
-arch = "x86_64"
-git-tree-sha1 = "18d63601390a243f143e15358eb050605697cc62"
-os = "freebsd"
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "fa8235f05df93b453581d1db821a96b68ad63199"
+libc = "glibc"
+os = "linux"
 
     [[LibGD.download]]
-    sha256 = "fe170b7bb52fdc45b561b55aa848e17b95f716126ed36fda88bf5ef0ee364bef"
-    url = "https://github.com/JuliaBinaryWrappers/LibGD_jll.jl/releases/download/LibGD-v2.3.0+0/LibGD.v2.3.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "45b6047803ce3e214f845cadc5b4785a183af8dacdc13d6f8c7b637b8b450e99"
+    url = "https://github.com/JuliaBinaryWrappers/LibGD_jll.jl/releases/download/LibGD-v2.3.3+0/LibGD.v2.3.3.armv6l-linux-gnueabihf.tar.gz"
 [[LibGD]]
-arch = "x86_64"
-git-tree-sha1 = "4c321ea83282f557b9ca0389a21d1227f428c35c"
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "b5b5b899633f810dcff93005f18616ac88847864"
+libc = "musl"
+os = "linux"
+
+    [[LibGD.download]]
+    sha256 = "52129d0ccbc6d5e5d7f3a04983425eb71353601056dec939fd9e7bbff829304b"
+    url = "https://github.com/JuliaBinaryWrappers/LibGD_jll.jl/releases/download/LibGD-v2.3.3+0/LibGD.v2.3.3.armv6l-linux-musleabihf.tar.gz"
+[[LibGD]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "607b997da36f59de451d98362df926c5522af080"
+libc = "glibc"
+os = "linux"
+
+    [[LibGD.download]]
+    sha256 = "6fd3d1fac79148180dc4a90345eb0987d0ebbe31614789182bbd37fca50c066f"
+    url = "https://github.com/JuliaBinaryWrappers/LibGD_jll.jl/releases/download/LibGD-v2.3.3+0/LibGD.v2.3.3.armv7l-linux-gnueabihf.tar.gz"
+[[LibGD]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "4d028237227f53394a29e6d9b3afec39a3dbe640"
+libc = "musl"
+os = "linux"
+
+    [[LibGD.download]]
+    sha256 = "677bab59b2525080d11b3efeab15b12a748e7e34990e27af6016484d7cd4aab6"
+    url = "https://github.com/JuliaBinaryWrappers/LibGD_jll.jl/releases/download/LibGD-v2.3.3+0/LibGD.v2.3.3.armv7l-linux-musleabihf.tar.gz"
+[[LibGD]]
+arch = "i686"
+git-tree-sha1 = "58ff21ce9cc0865682206d8db300d68ba2ba73af"
+libc = "glibc"
+os = "linux"
+
+    [[LibGD.download]]
+    sha256 = "4b3dc0da785e8948070f72234a42f0ce91cd5c2c2d102cc83d5bdab6257f56a4"
+    url = "https://github.com/JuliaBinaryWrappers/LibGD_jll.jl/releases/download/LibGD-v2.3.3+0/LibGD.v2.3.3.i686-linux-gnu.tar.gz"
+[[LibGD]]
+arch = "i686"
+git-tree-sha1 = "e2aaa017406b58e1445d73586f9fced8ab9c0548"
+libc = "musl"
+os = "linux"
+
+    [[LibGD.download]]
+    sha256 = "3ba28f3760601900565ab111adce7e0b0f86163b80c50faf67701438ca7ca8a1"
+    url = "https://github.com/JuliaBinaryWrappers/LibGD_jll.jl/releases/download/LibGD-v2.3.3+0/LibGD.v2.3.3.i686-linux-musl.tar.gz"
+[[LibGD]]
+arch = "i686"
+git-tree-sha1 = "8ebe18e71eda36832fa16b99bf1610e730a38bc2"
 os = "windows"
 
     [[LibGD.download]]
-    sha256 = "ebbcc183d65ee441abd490d856efcd15ca903f44542f35f940748a1668c0e916"
-    url = "https://github.com/JuliaBinaryWrappers/LibGD_jll.jl/releases/download/LibGD-v2.3.0+0/LibGD.v2.3.0.x86_64-w64-mingw32.tar.gz"
+    sha256 = "2b44fab4b70b57f6d5f8f949261087db8d3a4c6c0bd4667576b4a7fc1e729e4a"
+    url = "https://github.com/JuliaBinaryWrappers/LibGD_jll.jl/releases/download/LibGD-v2.3.3+0/LibGD.v2.3.3.i686-w64-mingw32.tar.gz"
+[[LibGD]]
+arch = "powerpc64le"
+git-tree-sha1 = "dbb4d2688abb495e4692ba938339a712541191dc"
+libc = "glibc"
+os = "linux"
+
+    [[LibGD.download]]
+    sha256 = "135ef6c2ff9cb36948c60a59930b8e54f1f1c2cfd9ddd48d3d4123ea29e7323f"
+    url = "https://github.com/JuliaBinaryWrappers/LibGD_jll.jl/releases/download/LibGD-v2.3.3+0/LibGD.v2.3.3.powerpc64le-linux-gnu.tar.gz"
+[[LibGD]]
+arch = "x86_64"
+git-tree-sha1 = "c123fb9bb170101478b9baa7b26cde207b6d6449"
+os = "macos"
+
+    [[LibGD.download]]
+    sha256 = "edba09db9663376a101bab46f4bdd1b70ecb9c4ee81a86f115a6a4117b67b21d"
+    url = "https://github.com/JuliaBinaryWrappers/LibGD_jll.jl/releases/download/LibGD-v2.3.3+0/LibGD.v2.3.3.x86_64-apple-darwin.tar.gz"
+[[LibGD]]
+arch = "x86_64"
+git-tree-sha1 = "7d761834f81df14af0666a8c3453d99ff44b1482"
+libc = "glibc"
+os = "linux"
+
+    [[LibGD.download]]
+    sha256 = "79a0641696fab4d9eaa982534b7752afc16e0c3f821f2738ffd7db846d658562"
+    url = "https://github.com/JuliaBinaryWrappers/LibGD_jll.jl/releases/download/LibGD-v2.3.3+0/LibGD.v2.3.3.x86_64-linux-gnu.tar.gz"
+[[LibGD]]
+arch = "x86_64"
+git-tree-sha1 = "bced120fbdec62c7835fc427d2d85c2c7bf040c5"
+libc = "musl"
+os = "linux"
+
+    [[LibGD.download]]
+    sha256 = "8c5854ee1d29c8c9574b3a0d860c2dc595b8fadd8e350eae89a0f8d81f98d574"
+    url = "https://github.com/JuliaBinaryWrappers/LibGD_jll.jl/releases/download/LibGD-v2.3.3+0/LibGD.v2.3.3.x86_64-linux-musl.tar.gz"
+[[LibGD]]
+arch = "x86_64"
+git-tree-sha1 = "3bb8da716cc1cb3d5c272a1ddf1aef2b479c4356"
+os = "freebsd"
+
+    [[LibGD.download]]
+    sha256 = "e046d3f2d2d7fbc3f9fc930b89a752d9f43c45d6bca6c80c534b70d7f83509e7"
+    url = "https://github.com/JuliaBinaryWrappers/LibGD_jll.jl/releases/download/LibGD-v2.3.3+0/LibGD.v2.3.3.x86_64-unknown-freebsd.tar.gz"
+[[LibGD]]
+arch = "x86_64"
+git-tree-sha1 = "24da39fa8122a8ba95cda65304558a11c0889bca"
+os = "windows"
+
+    [[LibGD.download]]
+    sha256 = "1c7514fac6422c90d36ac50489409dc293cb571725b3163b4f3ed1936814fbe3"
+    url = "https://github.com/JuliaBinaryWrappers/LibGD_jll.jl/releases/download/LibGD-v2.3.3+0/LibGD.v2.3.3.x86_64-w64-mingw32.tar.gz"
